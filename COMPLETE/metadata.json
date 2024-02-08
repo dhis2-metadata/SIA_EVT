@@ -1700,7 +1700,7 @@
         "DHIS2Build": "01ed9e0",
         "DHIS2Version": "2.39.3.1",
         "code": "SIA_RCM",
-        "description": "SIA RCM",
+        "description": "Supplementary Immunization Activities - Rapid Convenience Monitoring",
         "healthAreaCode": "IMM",
         "healthAreaName": "Immunization",
         "lastUpdated": "20231214T172116",
